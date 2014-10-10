@@ -1,6 +1,8 @@
 AddScore2
 =========
 
+QQ群号 113767274 有什么问题或者改进的地方大家一起讨论
+
 simple animation demo  use for add score，similar health point view
 
 类似 血瓶的效果  
